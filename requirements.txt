@@ -35,3 +35,4 @@ transliterate==1.10.2
 typing-extensions==3.7.4.1
 urllib3==1.25.8
 whitenoise==5.0.1
+
